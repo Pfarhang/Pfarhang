@@ -24,3 +24,9 @@ Automated Docker build pipeline using GitHub Actions.
 - Kubernetes
 - Advanced DevOps
 - Cloud Automation
+### Tools
+
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![Terraform](https://img.shields.io/badge/Terraform-purple?style=for-the-badge&logo=terraform)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-black?style=for-the-badge&logo=githubactions)
