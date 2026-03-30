@@ -1,6 +1,7 @@
 # Hi, I'm Pedram 👋
 
-Cloud & Infrastructure Engineer
+Cloud Engineer | AWS | Kubernetes | Terraform | DevOps
+
 
 ## Skills
 - Linux
@@ -11,20 +12,42 @@ Cloud & Infrastructure Engineer
 
 ## Projects
 
-### Cloud Web Server
-Dockerized web server using Nginx.
+##  Projects
 
-### Terraform Infrastructure
-Provision AWS infrastructure using Terraform.
+### 🔹 Cloud Web Server
 
-### CI/CD Pipeline
-Automated Docker build pipeline using GitHub Actions.
+Dockerized web server deployed in the cloud using Nginx.
+
+### 🔹 Terraform Infrastructure
+
+Provisioned AWS infrastructure using Terraform (EC2, networking).
+
+### 🔹 CI/CD Pipeline
+
+Automated Docker build and deployment using GitHub Actions.
+
+### 🔹 Kubernetes Deployment
+
+Deployed containerized application using Kubernetes.
+
+## What I’ve Built
+
+* Deployed infrastructure on AWS using Terraform
+* Built CI/CD pipelines with GitHub Actions
+* Containerized applications using Docker
+* Deployed apps using Kubernetes
+
 
 ## Currently Learning
 - Kubernetes
 - Advanced DevOps
 - Cloud Automation
 ### Tools
+
+##  Goal
+
+Looking for a Junior Cloud / DevOps Engineer role where I can build and scale cloud infrastructure.
+
 
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
